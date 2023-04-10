@@ -1,0 +1,14 @@
+//WHAT IS THE CRYPTOCURRENCY?
+
+Crypto (short for cryptocurrency) is a new form of digital money powered by cryptography.
+It all started in 2008 with Bitcoin. You could use it to send funds to anyone anywhere globally.
+What made crypto different from normal bank transfers or other financial services like Paypal or Alipay is 
+that there was no middleman for the first time.
+
+
+ //NO MIDDLEMAN IN CRYPTO
+
+Things are different with crypto.
+Transactions directly connect sender and recipient without having to deal with any central authority. 
+Nobody else will have access to your funds and nobody can tell you what services you can use.
+ This is possible because of the blockchain technology upon which cryptocurrencies operate.

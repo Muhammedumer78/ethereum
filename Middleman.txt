@@ -1,0 +1,6 @@
+
+//MIDDLEMAN:
+
+A middleman is a central authority like a bank or government that intervenes in a transaction between the sender and recipient. 
+They have the power to surveill, censor or revert transactions and they can share the sensitive data they collect about you with third parties.
+ They also often dictate which financial services you have access to.
