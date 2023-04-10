@@ -1,0 +1,5 @@
+//ETH ISN'T THE ONLY CRYPTO ON ETHEREUM
+
+Anyone can create new kinds of assets and trade them on Ethereum. These are known as 'tokens'. People have tokenised traditional currencies, their real estate, their art, and even themselves!
+
+Ethereum is home to thousands of tokens – some more useful and valuable than others. Developers are constantly building new tokens that unlock new possibilities and open new markets.
