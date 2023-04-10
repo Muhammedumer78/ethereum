@@ -1,0 +1,9 @@
+//WHAT IS DIFFERNCE BETWEEN ETHEREUM AND BITCOIN?
+
+Launched in 2015, Ethereum builds on Bitcoin's innovation, with some big differences.
+
+Both let you use digital money without payment providers or banks. But Ethereum is programmable, so you can also build and deploy decentralized applications on its network.
+
+Ethereum being programmable means that you can build apps that use the blockchain to store data or control what your app can do. This results in a general purpose blockchain that can be programmed to do anything. As there is no limit to what Ethereum can do, it allows for great innovation to happen on the Ethereum network.
+
+While Bitcoin is only a payment network, Ethereum is more like a marketplace of financial services, games, social networks and other apps that respect your privacy and cannot censor you.

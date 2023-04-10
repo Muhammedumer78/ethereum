@@ -1,0 +1,24 @@
+//Banking for everyone
+
+Not everyone has access to financial services. But all you need to access Ethereum and its lending, borrowing and savings products is an internet connection.
+
+//A more private internet
+
+You don't need to provide all your personal details to use an Ethereum app. Ethereum is building an economy based on value, not surveillance.
+
+//A peer-to-peer network
+
+Ethereum allows you to move money, or make agreements, directly with someone else. You don't need to go through intermediary companies.
+
+Censorship-resistant
+
+No government or company has control over Ethereum. This decentralization makes it nearly impossible for anyone to stop you from receiving payments or using services on Ethereum.
+
+//Commerce guarantees
+
+Customers have a secure, built-in guarantee that funds will only change hands if you provide what was agreed. Likewise, developers can have certainty that the rules won't change on them.\
+
+//All products are composable
+
+Since all apps are built on the same blockchain with a shared global state, they can build off each other (like legos). This allows for better products and experiences being built all the time.
+
