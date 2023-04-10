@@ -1,0 +1,7 @@
+//WHAT ARE SMART CONTRACTS?
+
+Smart contracts are simply computer programs living on the Ethereum blockchain. They only execute when triggered by a transaction from a user (or another contract). They make Ethereum very flexible in what it can do and distinguish it from other cryptocurrencies. These programs are what we now call decentralized apps, or dapps.
+
+Have you ever used a product that changed its terms of service? Or removed a feature you found useful? Once a smart contract is published to Ethereum, it will be online and operational for as long as Ethereum exists. Not even the author can take it down. Since smart contracts are automated, they do not discriminate against any user and are always ready to use.
+
+Popular examples of smart contracts are lending apps, decentralized trading exchanges, insurance, crowdfunding apps - basically anything you can think of.
