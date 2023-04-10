@@ -1,0 +1,16 @@
+//DEFI VS TRADITIONAL FINANCE
+
+One of the best ways to see the potential of DeFi is to understand the problems that exist today.
+
+:Some people aren't granted access to set up a bank account or use financial services.
+:Lack of access to financial services can prevent people from being employable.
+:Financial services can block you from getting paid.
+:A hidden charge of financial services is your personal data.
+:Governments and centralized institutions can close down markets at will.
+:Trading hours often limited to business hours of specific time zone.
+:Money transfers can take days due to internal human processes.
+:There's a premium to financial services because intermediary institutions need their cut.
+
+
+Here's a brief intro to DeFi
+https://youtu.be/H-O3r2YMWJ4
