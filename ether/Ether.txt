@@ -1,6 +1,9 @@
 //MEET ETHER, ETHEREUM'S CRYPTOCURRENCY
 
 
-Ethereum has a native cryptocurrency called ether (ETH). It is purely digital, and you can send it to anyone anywhere in the world instantly. The supply of ETH isn’t controlled by any government or company - it is decentralized and completely transparent. New coins (also commonly called tokens) are issued only to stakers who secure the network.
+Ethereum has a native cryptocurrency called ether (ETH). It is purely digital, and you can send it to anyone anywhere in the world instantly.
+The supply of ETH isn’t controlled by any government or company - it is decentralized and completely transparent. 
+New coins (also commonly called tokens) are issued only to stakers who secure the network.
 
-Every action on the Ethereum network requires a certain amount of computational power. This fee is paid in the form of ether. This means you need at least a small amount of ETH to use the network.
+Every action on the Ethereum network requires a certain amount of computational power. This fee is paid in the form of ether.
+This means you need at least a small amount of ETH to use the network.
