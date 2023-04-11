@@ -1,0 +1,5 @@
+//BACKGROUND OF ACCOUNTS
+
+When the Internet first appeared, to create an account on a site you had to ask a moderator to create a login-password record in a database.
+A little later people thought of doing this automatically, then there were emails and the opportunity to reset the password if you forgot it.
+The same development can be seen in Web 3.0.
