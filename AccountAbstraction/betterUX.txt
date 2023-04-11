@@ -1,0 +1,15 @@
+Account abstraction allows for a better overall user experience as well as improved SECURITY 
+because it adds support for smart contract wallets at the protocol level. The most important 
+reason for this is that it will provide developers of smart contracts, wallets and applications 
+with much MORE FREEDOM TO INNOVATE ON THE USER EXPERIENCE(UX) in ways that we may not yet be able
+to anticipate. Some obvious improvements that will come along with account abstraction include
+BUNDLING OF TRANSACTIONS FOR SPEED AND EFFICIENCY.
+
+For example, a simple swap should be a one-click operation, but today it requires signing 
+multiple transactions for approving spending of individual tokens before the swap is executed. 
+Account abstraction removes that friction by allowing transaction bundling. 
+
+Furthermore, the bundled transaction could approve precisely the right value of tokens required 
+for each transaction and then revoke the approvals after the transaction completes, 
+providing additional security.
+
