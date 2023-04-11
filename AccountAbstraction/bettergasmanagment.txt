@@ -1,0 +1,7 @@
+//GAS MANAGMENT
+
+Gas management is also much improved with account abstraction. 
+Not only can applications offer to pay their users' gas fees, but gas fees can be paid in tokens 
+other than ETH, freeing users from having to maintain an ETH balance for funding transactions. 
+This would work by swapping the user's tokens for ETH inside the contract and then using the ETH
+to pay for gas.
