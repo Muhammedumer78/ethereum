@@ -1,0 +1,20 @@
+
+//PROBLEM OF KEYS
+Today's accounts are secured using private keys that are calculated from seed phrases.
+Any person who has access to a seed phrase can easily discover the private key protecting an 
+account and gain access to all the assets it protects. If a private key and seed phrase are lost, 
+they can never be recovered and the assets they control are frozen forever. 
+Securing these seed phrases is awkward, even for expert users and seed phrase phishing is one of 
+the most common ways users get scammed.
+
+
+//SOLUTION
+Account abstraction will solve this problem by using a smart contract to hold assets and 
+authorize transactions. These smart contracts can then be decorated with custom logic to make 
+them as secure and tailored to the user as possible. Ultimately, you still use private keys to 
+control access to your account, but with safety nets that make them easier and safer to manage.
+
+
+//BACKUP KEYS
+For example, backup keys can be added to a wallet so that if you lose or accidentally expose your main key, it can be replaced with a new, secure one with permission from the backup keys. You might secure each of these keys in a different way, or split them across trusted guardians. This makes it much harder for a thief to gain full control over your funds. Similarly, you can add rules to the wallet to reduce the impact if your main key gets compromised, for example you might allow low value transactions to be verified by a single signature, whereas higher value transactions require approval from multiple authenticated signers. There are other ways smart contract wallets can help you to thwart thieves too, for example a whitelist can be used to block every transaction unless it is to a trusted address or verified by several of your pre-approved keys.
+Examples of security logic that can be built into a smart contract

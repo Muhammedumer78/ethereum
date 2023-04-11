@@ -1,0 +1,6 @@
+1]Define your own flexible security rules.
+2]Recover your account if you lose the keys.
+3]Share your account security across trusted devices or individuals.
+4]Pay someone else's gas, or have someone else pay yours.
+5]Batch transactions together (e.g. approve and execute a swap in one go)
+6]More opportunities for dapps and wallet developers to innovate on user experiences.

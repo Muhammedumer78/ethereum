@@ -60,3 +60,6 @@ more sophisticated and versatile applications on blockchain platforms. It enable
 complex multi-asset applications that are not possible with traditional account-based blockchain systems.
 
 
+//ONE LINE ANSWER
+
+"Account abstraction is a new paradigm to make blockchain accounts programmable."

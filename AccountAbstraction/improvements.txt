@@ -1,0 +1,8 @@
+"Account Abstraction unifies Contract Accounts and EOAs."
+:It makes user accounts more ‘programmable’.
+:You remove the logic of signing transactions from the account, and you “abstract” it out, hence 
+account abstraction.
+:This unlocks much more flexibility, you could code an account for multi-sig, 2-factor 
+authentications, withdrawal limits, and expiration on keys… It is a bit similar to what Revolut 
+Virtual Cards brought to credit cards.
+:This is very very exciting because it allows the non-custodial blockchain UX to scale.

@@ -1,0 +1,29 @@
+//ACCOUNTS ON Ethereum
+Today there are two account types on Ethereum: Contract Accounts and Externally Owned Accounts 
+(EOA, basically that last one is regular user accounts).
+
+:For anything to happen on-chain a transaction must be initiated and paid for by an EOA.
+:The way you control an EOA is through its private key. You use this private key to create
+a signature that proves to the blockchain it’s your account.
+
+
+//SHORTCOMINGS
+
+//Private Keys:
+
+1)In this setup, your private key makes you vulnerable. If you lose it, you lose your account
+and all your funds.
+
+//Hard and fast Rules:
+
+2)The main issue is that the system is rigid and hard-coded. You can implement multi-signature
+smart contract wallets like Gnosis Safe, but the default is this: you get an account with a key
+and if you lose your key, you're doomed.
+
+//Custodial accounts are not ideal:
+
+3)The alternative of custodial accounts like Coinbase is not ideal. If they get hacked, you have
+the same problem. It's even worse than when many credit card numbers are exposed after a hack. 
+Because you cannot implement maximum transaction amounts on a classic EOA account, the hacker 
+could drain all your funds in one transaction. It's a single point of failure and makes it super
+easy for governments to seize or freeze all your money arbitrarily.
