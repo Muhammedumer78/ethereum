@@ -1,13 +1,13 @@
-import Image from 'next/image'
-import { Inter } from 'next/font/google'
 
-const inter = Inter({ subsets: ['latin'] })
+import Wallet from '@/components/Wallet'
+
 
 export default function Home() {
   return (
     <div>
       <h1 className='text-bold'>
-        social wallet
+     <Wallet/>
+   
       </h1>
     </div>
   )
