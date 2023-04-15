@@ -10,7 +10,7 @@ import { configureChains, createClient, WagmiConfig } from 'wagmi';
 import { twitchWallet, twitterWallet } from '@zerodevapp/wagmi/rainbowkit';
 import { googleWallet, discordWallet } from '@zerodevapp/wagmi/rainbowkit';
 import { facebookWallet, githubWallet } from '@zerodevapp/wagmi/rainbowkit';
-export const RainbowKitWallet = () => {
+ const SocWallet = () => {
   const connectors = connectorsForWallets([
     {
       groupName: 'Social',
@@ -54,3 +54,5 @@ export const RainbowKitWallet = () => {
     </WagmiConfig>
   );
 };
+
+export default SocWallet
